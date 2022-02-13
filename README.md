@@ -2,8 +2,8 @@
 
 ⚘ Dark Garden ⚘
 
-## TECH
+## STACK
 
-- Next.js
-- Three.js
-- GSAP
+- [Next](https://nextjs.org/)
+- [Three](https://threejs.org/)
+- [Theatre](https://www.theatrejs.com/) - maybe
