@@ -1,26 +1,8 @@
-import React, { useEffect } from 'react';
-import { Scene } from 'three';
+import React from 'react';
 
-export const HomeScene: React.FC = () => {
-  useEffect(() => {
-    // todo: init
-    // initThree();
-  }, []);
-
-  return <h1>- DRK.GDN -</h1>;
-};
-
-function initThree() {
-  createScene('home');
-}
+export const HomeScene: React.FC = () => <h1>- DRK.GDN -</h1>;
 
 // create scene
-
-function createScene(sceneName: string): void {
-  console.log(`Creating scene ${sceneName}`);
-
-  const scene = new Scene();
-}
 
 // todo: https://threejs.org/docs/#manual/en/introduction/Drawing-lines
 // todo: https://tympanus.net/codrops/2021/10/04/deconstructing-the-homunculus-jp-distortion-with-three-js/
