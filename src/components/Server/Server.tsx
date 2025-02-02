@@ -5,6 +5,7 @@ export const Server = () => (
         <li><a href='https://stats.drk.gdn'>stats</a></li>
         <li><a href='https://docker.drk.gdn'>docker</a></li>
         <li><a href='https://storage.drk.gdn'>storage</a></li>
+        <li><a href='https://typesense.drk.gdn'>typesense</a></li>
         <li><a href='https://supabase.drk.gdn'>supabase</a></li>
         <li><a href='https://langfuse.drk.gdn'>langfuse</a></li>
         <li><a href='https://n8n.drk.gdn'>n8n</a></li>
